@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books.md",
+                "file": "Rezepte.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Books.md",
+            "file": "Rezepte.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Books.md",
+            "file": "Rezepte.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Books.md"
+            "file": "Rezepte.md"
           }
         }
       }
@@ -146,8 +146,10 @@
   },
   "active": "8e691fbe75ccb07c",
   "lastOpenFiles": [
-    "README.md",
+    "Home.md",
+    "Rezepte.md",
     "Books.md",
+    "README.md",
     "Arbeit.md",
     "Untitled"
   ]
