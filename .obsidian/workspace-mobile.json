@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8e691fbe75ccb07c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Books.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Books.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Books.md"
+            "file": "README.md"
           }
         }
       }
@@ -144,11 +131,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e691fbe75ccb07c",
+  "active": "eb629d51978a67bd",
   "lastOpenFiles": [
+    "Books.md",
+    "Family Recipes.md",
+    "20 Recipes",
+    "Templates/30.02 Book — Held.md",
+    "Templates",
+    "20 Recipes/Creamy Mushroom Pasta.md",
+    "Templates/30.03 Book — Currently-Reading.md",
+    "20 Recipes/Chili Oil.md",
+    "Templates/30.00 Book — Noted.md",
+    "20 Recipes/Red Lentil Curry.md",
+    "30 External/31 Books/31.00 Backshelf/Go For No Yes Is The Destination.md",
+    "30 External/31 Books/31.00 Backshelf/Company of One.md",
+    "30 External/31 Books/31.00 Backshelf/Thinking, Fast and Slow.md",
+    "30 External/31 Books/31.00 Backshelf",
+    "30 External/31 Books",
+    "30 External",
+    "Templates/30.04 Book — Read.md",
+    "Templates/30.01 Book — Interested.md",
+    "Templates/Recipes.txt",
+    "30 External/31 Books/31.00 Backshelf/Think And Grow Rich.md",
+    "30 External/31 Books/31.00 Backshelf/Antifragile.md",
     "Rezepte.md",
     "Home.md",
-    "Books.md",
     "README.md",
     "Arbeit.md",
     "Untitled"
